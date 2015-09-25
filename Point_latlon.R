@@ -1,4 +1,4 @@
-#set.seed(7)
+set.seed(7)
 # load the library
 library(mlbench)
 library(caret)
